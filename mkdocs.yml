@@ -1,0 +1,6 @@
+site_name: mkdocs tutorial
+site_url: https://mariaplot35.github.io/mkdocs/
+site_author: Maria Montero Sanchez
+theme:
+   name: material
+
